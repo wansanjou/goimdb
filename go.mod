@@ -4,7 +4,7 @@ go 1.21.5
 
 require (
 	github.com/labstack/echo/v4 v4.11.4
-	github.com/proullon/ramsql v0.1.3
+	github.com/proullon/ramsql v0.0.0-20220319205533-582afa8a5528
 )
 
 require (
